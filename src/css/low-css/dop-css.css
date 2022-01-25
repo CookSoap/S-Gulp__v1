@@ -1,0 +1,13 @@
+@media (max-width:700px) {
+    footer {
+        color: white;
+    }
+}
+
+ul {
+    display: flex;
+}
+footer {
+    background-color: rgb(57, 175, 116);
+}
+

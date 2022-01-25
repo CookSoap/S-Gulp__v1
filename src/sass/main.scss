@@ -1,0 +1,19 @@
+@import "low-scss/reset.scss";
+//шрифты 
+@import "low-scss/fonts.scss";
+// импорт header
+@import "low-scss/header.scss";
+// импорт footer
+@import "low-scss/footer.scss";
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h1 {
+    font-family: "FC"; 
+    text-align: center;
+    border: plum 2px solid;
+}

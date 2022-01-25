@@ -1,0 +1,21 @@
+  @font-face {
+    font-family: "FC"; 
+    src: url("/fonts/fightthis.woff2"); 
+    font-style: normal; 
+    font-weight: normal; 
+  }
+  
+  @font-face {
+    font-family: "";  
+    src: url("../fonts/.woff"),
+    url("../fonts/.woff2");
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "FC";  
+    src: url("../fonts/fightthis.woff"),
+    url("../fonts/fightthis.woff2");
+    font-weight: 400;
+    font-display: fallback;
+  }
