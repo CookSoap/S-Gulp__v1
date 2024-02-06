@@ -1,2 +1,4 @@
+КОМАНДЫ
+
 Запуск: "gulp",
-Создание: "gulp --production"
+Сборка: "gulp --production"
